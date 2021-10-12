@@ -75,11 +75,24 @@ body{
 /* <!--Example One--> */
 .manrope {
 	font-family: 'manrope', sans-serif;
-
+	font-size: 16px;
 }
-
+h1.manrope{
+	font-size: 3.052rem;
+}
+h2.manrope{
+	font-size: 2.441rem;
+}
+h3.manrope{
+	font-size: 1.953rem;
+}
+h4.manrope{
+	font-size: 1.563rem;
+}
+h5.manrope{
+	font-size: 1.25rem
+}
 h1.manrope, h2.manrope, h3.manrope, h4.manrope, h5.manrope  {
-	font-size: font-size: 1.802rem;
 	font-weight: 800;
 	color: #0A0049;
 	line-height: 1.2;
@@ -99,6 +112,7 @@ a.manrope {
 /* <!--Example Two--> */
 .beba {
 	font-family: 'Bebas Neue', cursive;
+	font-size: 16px;
 }
 h1.beba, h2.beba, h3.beba, h4.beba, h5.beba  {
 	font-size: font-size: 1.802rem;
@@ -106,10 +120,26 @@ h1.beba, h2.beba, h3.beba, h4.beba, h5.beba  {
 	color: black;
 	line-height: 1.2;
 }
+h1.beba{
+	font-size: 4.209rem
+}
+h2.beba{
+	font-size: 3.157rem
+}
+h3.beba{
+	font-size: 2.369rem
+}
+h4.beba{
+	font-size: 1.777rem
+}
+h5.beba{
+	font-size: 1.333rem
+}
 .robo {
 	color: black;
 	font-weight: 400;
 	font-family: roboto;
+	font-size: 16px;
 }
 a.robo {
 	color: #0038FF;
@@ -120,7 +150,7 @@ a.robo {
 /* <!--Example Three --> */
 .asap {
 	font-family: 'Asap Condensed', sans-serif;
-
+	font-size: 17px;
 }
 
 h1.asap, h2.asap, h3.asap, h4.asap, h5.asap  {
@@ -129,12 +159,29 @@ h1.asap, h2.asap, h3.asap, h4.asap, h5.asap  {
 	color: #545454;
 	line-height: 1.2;
 }
+h1.asap{
+	font-size: 1.802rem;
+}
+h2.asap{
+	font-size: 1.602rem;
+}
+h3.asap{
+	font-size: 1.424rem;
+}
+h4.asap{
+	font-size: 1.266rem;
+}
+h5.asap{
+	font-size: 1.125rem;
+}
 p.asap {
 	color:#000000;
 	font-weight: 500;
+	font-size: 1rem;
 }
 a.asap {
 	color: #0038FF;
+	font-size: 0.889rem;
 }
 .bold2{
 	font-weight: 700 !important;
