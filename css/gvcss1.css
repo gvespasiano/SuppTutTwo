@@ -11,7 +11,13 @@ body h1{
 	color:red;
 	font-weight:bold;
 }
+.nav-link{
+	color:red !important;
+}
 
+.navbar-brand{
+	color:red !important;
+}
 body{
 	font-family:raleway;
 }
@@ -20,7 +26,7 @@ body{
 
 }
 .bg-dark{
-	background-color: red !important;
+	background-color:white !important;
 }
 .c-container{
 	padding-right: 0px;
@@ -121,19 +127,19 @@ h1.beba, h2.beba, h3.beba, h4.beba, h5.beba  {
 	line-height: 1.2;
 }
 h1.beba{
-	font-size: 4.209rem
+	font-size: 4.209rem;
 }
 h2.beba{
-	font-size: 3.157rem
+	font-size: 3.157rem;
 }
 h3.beba{
-	font-size: 2.369rem
+	font-size: 2.369rem;
 }
 h4.beba{
-	font-size: 1.777rem
+	font-size: 1.777rem;
 }
 h5.beba{
-	font-size: 1.333rem
+	font-size: 1.333rem;
 }
 .robo {
 	color: black;
